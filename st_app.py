@@ -12,7 +12,7 @@ logbook = log_manager.load_logbook()
 
 # --- App Title ---
 # st.title() puts a big title at the top
-st.title("⚙️ Command-Line Service Logbook")
+st.title("⚙️ Service Logbook")
 
 # --- Sidebar Menu ---
 # st.sidebar.radio creates a navigation menu in a sidebar
